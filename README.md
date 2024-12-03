@@ -5,7 +5,6 @@ Welcome to my **Kattis Solutions Repository**! 🌟 This repo is dedicated to st
 ---
 
 ## 📁 Repository Structure
-- Each solution is organized in directories by **problem name** or **category** (e.g., `dynamic_programming`, `graphs`, `sorting`).
 - File names typically follow the format: `<problem_name>.<language>` (e.g., `hello_world.cpp`).
 
 ---
